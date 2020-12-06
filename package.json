@@ -19,9 +19,9 @@
 	"contributes": {
 		"themes": [
 			{
-				"label": "Master Theme No. 1",
+				"label": "Bright Colors",
 				"uiTheme": "vs-dark",
-				"path": "./themes/Master Theme No. 1-color-theme.json"
+				"path": "./themes/Bright-Colors-color-theme.json"
 			}
 		]
 	}
