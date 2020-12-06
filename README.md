@@ -1,6 +1,6 @@
 # Bright Colors 
 
-This is a Theme that I made since I could'nt find theme with colorful fonts and subtle background colors
+This is a Theme that I made since I couldn't find theme with colorful fonts and subtle background colors
 
 
 ## Few Images
