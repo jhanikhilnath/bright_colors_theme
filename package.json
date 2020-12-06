@@ -1,0 +1,28 @@
+{
+	"name": "Bright-Color",
+	"publisher": "nikhil2007",
+	"author": "Nikhil Nath jha",
+	"displayName": "Bright Colors",
+	"description": "A very colorful theme(fonts) and subtle background colors",
+	"icon": "images/icon.png",
+	"repository": {
+			"type": "git",
+			"url": "https://github.com/jhanikhilnath/bright_colors_theme"
+	},
+	"version": "1.0.1",
+	"engines": {
+		"vscode": "^1.0.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Master Theme No. 1",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Master Theme No. 1-color-theme.json"
+			}
+		]
+	}
+}
