@@ -9,7 +9,7 @@
 		"type": "git",
 		"url": "https://github.com/jhanikhilnath/bright_colors_theme"
 	},
-	"version": "1.2.0",
+	"version": "1.2.1",
 	"engines": {
 		"vscode": "^1.0.0"
 	},
@@ -26,7 +26,7 @@
 			{
 				"label": "Bright Colors(Blue bg)",
 				"uiTheme": "vs-dark",
-				"path": "./themes/Bright_Colors_Blue"
+				"path": "./themes/Bright_Colors_Blue.json"
 			}
 		]
 	}
