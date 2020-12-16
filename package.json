@@ -6,10 +6,10 @@
 	"description": "A very colorful theme(fonts) and subtle background colors",
 	"icon": "images/icon.png",
 	"repository": {
-			"type": "git",
-			"url": "https://github.com/jhanikhilnath/bright_colors_theme"
+		"type": "git",
+		"url": "https://github.com/jhanikhilnath/bright_colors_theme"
 	},
-	"version": "1.0.1",
+	"version": "1.2.0",
 	"engines": {
 		"vscode": "^1.0.0"
 	},
@@ -22,6 +22,11 @@
 				"label": "Bright Colors",
 				"uiTheme": "vs-dark",
 				"path": "./themes/Bright-Colors-color-theme.json"
+			},
+			{
+				"label": "Bright Colors(Blue bg)",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Bright_Colors_Blue"
 			}
 		]
 	}
