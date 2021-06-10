@@ -1,33 +1,38 @@
 {
-	"name": "Bright-Color",
-	"publisher": "nikhil2007",
-	"author": "Nikhil Nath jha",
-	"displayName": "Bright Colors",
-	"description": "A very colorful theme(fonts) and subtle background colors",
-	"icon": "images/icon.png",
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/jhanikhilnath/bright_colors_theme"
-	},
-	"version": "1.2.1",
-	"engines": {
-		"vscode": "^1.0.0"
-	},
-	"categories": [
-		"Themes"
-	],
-	"contributes": {
-		"themes": [
-			{
-				"label": "Bright Colors",
-				"uiTheme": "vs-dark",
-				"path": "./themes/Bright-Colors-color-theme.json"
-			},
-			{
-				"label": "Bright Colors(Blue bg)",
-				"uiTheme": "vs-dark",
-				"path": "./themes/Bright_Colors_Blue.json"
-			}
-		]
-	}
+  "name": "bright-color",
+  "publisher": "nikhil2007",
+  "author": "Nikhil Nath jha",
+  "displayName": "Bright Colors",
+  "description": "A very colorful theme(fonts) and subtle background colors",
+  "icon": "images/icon.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jhanikhilnath/bright_colors_theme"
+  },
+  "version": "1.3.1",
+  "engines": {
+    "vscode": "^1.0.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Bright Colors",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Bright-Colors-color-theme.json"
+      },
+      {
+        "label": "Bright Colors(Italics)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Bright-Colors-Italic.json"
+      },
+      {
+        "label": "Bright Colors(Blue bg)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Bright_Colors_Blue.json"
+      }
+    ]
+  }
 }
