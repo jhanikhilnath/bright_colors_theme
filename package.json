@@ -9,7 +9,7 @@
     "type": "git",
     "url": "https://github.com/jhanikhilnath/bright_colors_theme"
   },
-  "version": "1.3.1",
+  "version": "1.4.2",
   "engines": {
     "vscode": "^1.0.0"
   },

@@ -23,7 +23,7 @@
     },
     {
       "name": "CSS Atributes",
-      "scope": "support.type",
+      "scope": ["support.type", "source.js support.type"],
       "settings": {
         "foreground": "#5eb7ee"
       }
@@ -135,8 +135,7 @@
         "keyword",
         "meta.link",
         "meta.image",
-        "markup.italic",
-        "source.js support.type"
+        "markup.italic"
       ],
       "settings": {
         "foreground": "#c74ded"
